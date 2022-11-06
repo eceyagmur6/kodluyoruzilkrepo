@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html, bir adet style.css ve bir adet test.js dosyası barındırıyor.
+Bu repo [Patika.dev](https://www.patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html, bir adet style.css ve bir adet test.js dosyası barındırıyor.
 
 
 ## Installation
